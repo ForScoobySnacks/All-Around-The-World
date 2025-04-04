@@ -1,0 +1,8 @@
+package-lock.json
+package.json
+vite.config.json
+.eslintrc.json
+node_modules/
+public/
+dist/
+data/
